@@ -1,0 +1,21 @@
+#
+# Default ignored files (Pycharm ide)
+/venv/
+/geneLength/venv/
+/PycharmProjects/geneLength/venv/
+/shelf/
+/workspace.xml
+#
+#    
+.idea    
+.DS_Store
+*~
+__pycache__
+*.pyc
+ensembl__division_taxid_species.tsv
+ensembl__division_taxid_species.tsv.bz2
+ensembl__taxid_species_goldenPath_division.tsv
+ensembl__taxid_species_goldenPath_division.tsv.bz2
+
+    
+
